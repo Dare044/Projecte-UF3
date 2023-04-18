@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Juego de preguntas</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" type="text/css" href="estilos.css">
+
+</head>
+<body>
+  <h1>Juego de preguntas</h1>
+  <div id="pregunta-container">
+    <h2 id="pregunta"></h2>
+    <div id="opciones"></div>
+  </div>
+  
+  <div id="nombre-container">
+    <form>
+      <label>Introduce tu nombre:</label>
+      <input type="text" id="nombre-input">
+      <button type="submit" id="nombre-submit">Empezar</button>
+    </form>
+  </div>
+  
+  <div id="juego-container" style="display: none;">
+    <!-- Aquí irán las preguntas y las opciones -->
+  </div>
+  
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.2.0/socket.io.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

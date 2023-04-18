@@ -1,0 +1,238 @@
+{
+    "preguntas": [
+      { "numero": "1",
+        "pregunta": "En la temporada 2021-2022 de la Champions League, ¿cuál fue el equipo ganador del torneo?",
+        "opciones": [
+          "Manchester City",
+          "Paris Saint-Germain",
+          "Real Madrid",
+          "Chelsea"
+        ],
+        "respuesta": 3
+      },
+        { "numero": "2",
+          "pregunta": "¿Qué jugador de fútbol fue el máximo goleador de la temporada 2020-2021 de la Champions League?",
+          "opciones": [
+            "Robert Lewandowski",
+            "Cristiano Ronaldo",
+            "Erling Haaland",
+            "Kylian Mbappé"
+          ],
+          "respuesta": 2
+        },
+        {
+            "numero": "3",
+            "pregunta": "¿Quién ganó el premio al Mejor Jugador de la UEFA en la temporada 2020-2021?",
+            "opciones": [
+              "Lionel Messi",
+              "Kevin De Bruyne",
+              "Jorginho",
+              "N'Golo Kanté"
+            ],
+            "respuesta": 3
+          },
+          {
+            "numero": "4",
+            "pregunta": "¿Cuál es el equipo que más veces ha ganado la Liga de Campeones de la UEFA?",
+            "opciones": [
+              "Real Madrid",
+              "Barcelona",
+              "Manchester United",
+              "Bayern Munich"
+            ],
+            "respuesta": 0
+          },
+          {
+            "numero": "5",
+            "pregunta": "¿Quién fue el máximo goleador de la Liga de Campeones de la UEFA en la temporada 2019-2020?",
+            "opciones": [
+              "Lionel Messi",
+              "Robert Lewandowski",
+              "Cristiano Ronaldo",
+              "Neymar"
+            ],
+            "respuesta": 1
+          },
+          {
+            "numero": "6",
+            "pregunta": "¿Cuál es el equipo que más veces ha ganado la Copa Libertadores de América?",
+            "opciones": [
+              "Boca Juniors",
+              "River Plate",
+              "Independiente",
+              "Peñarol"
+            ],
+            "respuesta": 2
+          },
+          {
+            "numero": "7",
+            "pregunta": "¿Quién es el jugador con más goles en la historia del fútbol?",
+            "opciones": [
+              "Pele",
+              "Lionel Messi",
+              "Cristiano Ronaldo",
+              "Romário"
+            ],
+            "respuesta": 0
+          },
+          {
+            "numero": "8",
+            "pregunta": "¿Cuál es el equipo que ha ganado más veces la Premier League inglesa?",
+            "opciones": [
+              "Manchester United",
+              "Liverpool",
+              "Arsenal",
+              "Chelsea"
+            ],
+            "respuesta": 0
+          },
+          {
+            "numero": "9",
+            "pregunta": "¿En qué país se disputó la Copa Mundial de la FIFA 2018?",
+            "opciones": [
+              "Francia",
+              "Alemania",
+              "España",
+              "Rusia"
+            ],
+            "respuesta": 3
+          },
+          {
+            "numero": "10",
+            "pregunta": "¿Cuál es el jugador con más asistencias en la historia de la Premier League inglesa?",
+            "opciones": [
+              "Ryan Giggs",
+              "Frank Lampard",
+              "Cesc Fàbregas",
+              "David Beckham"
+            ],
+            "respuesta": 0
+          },
+          {
+            "numero": "11",
+            "pregunta": "¿Quién es el entrenador con más títulos de Liga de Campeones de la UEFA?",
+            "opciones": [
+              "José Mourinho",
+              "Carlo Ancelotti",
+              "Alex Ferguson",
+              "Zinedine Zidane"
+            ],
+            "respuesta": 3
+          },
+          {
+            "numero": "12",
+            "pregunta": "¿Cuál es el jugador que ha ganado más veces el Balón de Oro de la FIFA?",
+            "opciones": [
+              "Lionel Messi",
+              "Cristiano Ronaldo",
+              "Michel Platini",
+              "Johan Cruyff"
+            ],
+            "respuesta": 0
+          },
+          {
+            "numero": "13",
+            "pregunta": "¿Quién es el portero que ha ganado más veces el Trofeo Zamora en la Liga española?",
+            "opciones": [
+              "Iker Casillas",
+              "Víctor Valdés",
+              "Francisco Buyo",
+              "Andoni Zubizarreta"
+            ],
+            "respuesta": 3
+          },
+          {
+            "numero": "14",
+            "pregunta": "¿Cuál es el equipo que más veces ha ganado la Liga MX de México?",
+            "opciones": [
+              "Club América",
+              "Chivas de Guadalajara",
+              "Cruz Azul",
+              "Pumas UNAM"
+            ],
+            "respuesta": 0
+          },
+          {
+            "numero": "15",
+            "pregunta": "¿Cuál es el jugador que ha marcado más goles en la historia de la Selección Brasileña de Fútbol?",
+            "opciones": [
+              "Romário",
+              "Neymar",
+              "Ronaldo",
+              "Pelé"
+            ],
+            "respuesta": 3
+          },
+          {
+            "numero": "16",
+            "pregunta": "¿Cuál es el equipo que más veces ha ganado la Serie A italiana?",
+            "opciones": [
+              "Juventus",
+              "Inter de Milán",
+              "AC Milan",
+              "AS Roma"
+            ],
+            "respuesta": 0
+          },
+          {
+            "numero": "17",
+            "pregunta": "¿Quién fue el máximo goleador de la Copa América 2019?",
+            "opciones": [
+              "Lionel Messi",
+              "Paolo Guerrero",
+              "Everton",
+              "Gabriel Jesús"
+            ],
+            "respuesta": 2
+          },
+          {
+            "numero": "18",
+            "pregunta": "¿Cuál es el equipo que más veces ha ganado la Liga de Fútbol Profesional de Francia?",
+            "opciones": [
+              "Paris Saint-Germain",
+              "Olympique de Marsella",
+              "AS Mónaco",
+              "AS Saint-Étienne"
+            ],
+            "respuesta": 3
+          },
+          {
+            "numero": "19",
+            "pregunta": "¿Quién es el jugador con más títulos de la Liga de Campeones de la UEFA?",
+            "opciones": [
+              "Paolo Maldini",
+              "Cristiano Ronaldo",
+              "Franco Baresi",
+              "Clarence Seedorf"
+            ],
+            "respuesta": 0
+          },
+          
+          {
+            "numero": "20",
+            "pregunta": "¿Cuál es el equipo que más veces ha ganado la Liga Águila de Colombia?",
+            "opciones": [
+              "Atlético Nacional",
+              "Independiente Santa Fe",
+              "Millonarios",
+              "América de Cali"
+            ],
+            "respuesta": 0
+          }
+          
+          
+          
+          
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+    ]
+  }
+  
